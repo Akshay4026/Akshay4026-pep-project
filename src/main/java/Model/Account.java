@@ -12,7 +12,7 @@ public class Account {
      */
     public int account_id;
     /**
-     * A username for this Account (must be unique and not blank)
+     * A username for th is Account (must be unique and not blank)
      */
     public String username;
     /**
